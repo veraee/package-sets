@@ -1,4 +1,13 @@
 {
+  "html-parser-halogen": {
+    "dependencies": [
+      "string-parsers",
+      "generics-rep",
+      "halogen"
+    ],
+    "repo": "https://github.com/rnons/purescript-html-parser-halogen.git",
+    "version": "v0.3.0"
+  },
   "aff": {
     "dependencies": [
       "datetime",
